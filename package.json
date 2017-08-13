@@ -1,0 +1,17 @@
+{
+  "name": "language-piecewise",
+  "version": "0.0.0",
+  "description": "Piecewise support in Atom",
+  "engines": {
+    "atom": "*"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nilern/language-piecewise.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nilern/language-piecewise/issues"
+  },
+  "license": "BSD3"
+}
